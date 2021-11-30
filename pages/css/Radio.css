@@ -42,11 +42,11 @@ color: blue;
 /*--Menu--*/
 
 #linha1 ul li {
-    display: inline-block;
+    
 }
 
 #centro {
-    background-color: purple;
+    background-color: white;
     width: 1131px;
     margin:0 auto;
 ;
@@ -54,6 +54,6 @@ color: blue;
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
     cursor: pointer;
 }
